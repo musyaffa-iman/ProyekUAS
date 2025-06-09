@@ -1,4 +1,4 @@
-![hasil run 2](https://github.com/user-attachments/assets/d54e81cf-e7ef-4bf4-9be5-a8e71fcd8027)![hasil run 1](https://github.com/user-attachments/assets/9fff37bd-caad-4371-9966-e96c2df1d8cd)# Kalkulator Panas Total dengan Metode Aturan Trapesium
+# Kalkulator Panas Total dengan Metode Aturan Trapesium
 
 Proyek ini merupakan implementasi metode numerik Aturan Trapesium (Trapezoidal Rule) untuk menyelesaikan studi kasus perhitungan panas total dalam mata kuliah Pemrograman Numerik.
 
