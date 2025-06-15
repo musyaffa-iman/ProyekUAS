@@ -19,7 +19,7 @@ Metode numerik yang digunakan adalah **Aturan Trapesium**, di mana area di bawah
 - **Suhu Awal ($T_1$):** -100 °C
 - **Suhu Akhir ($T_2$):** 200 °C
 - **Fungsi Kapasitas Kalor:**
-  $$ c(T) = 0.132 + 1.56 \times 10^{-4}T + 2.64 \times 10^{-7}T^2 $$
+  \( c(T) = 0.132 + 1.56 \times 10^{-4}T + 2.64 \times 10^{-7}T^2 \)
 
 ### Fitur Program
 
